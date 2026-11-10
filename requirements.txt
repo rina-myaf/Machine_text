@@ -1,0 +1,6 @@
+tensorflow[and-cuda]==2.15.1
+opencv-python
+numpy<2
+Pillow
+scikit-learn
+matplotlib
